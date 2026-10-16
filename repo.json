@@ -1,17 +1,10 @@
 {
-  "name": "My Custom PS5 Repo",
-  "icons_url": "https://github.com",
-  "payloads": [
-    {
-      "name": "Prospero Manager",
-      "filename": "ProsperoMgr.elf",
-      "url": "https://github.com/notmaj0r/ProsperoMgr/releases/latest/download/ProsperoMgr.elf",
-      "source": "https://github.com/notmaj0r/ProsperoMgr",
-      "source_direct": "https://github.com/notmaj0r/ProsperoMgr/releases/download/v1.1.0/ProsperoMgr.elf",
-      "description": "All-In-One homebrew and payload manager for your PS5 via web dashboard",
-      "last_update": "2026-10-17",
-      "version": "v1.1.0",
-      "category": "Utilities & Tools"
-    }
-  ]
+  "name": "Prospero Manager",
+  "filename": "ProsperoMgr.elf",
+  "url": "https://github.com/notmaj0r/ProsperoMgr/releases/latest/download/ProsperoMgr.elf",
+  "source": "https://github.com/notmaj0r/ProsperoMgr",
+  "source_direct": "https://github.com/notmaj0r/ProsperoMgr/releases/latest/download/ProsperoMgr.elf",
+  "description": "All-In-One homebrew and payload manager for your PS5 via web dashboard",
+  "version": "latest",
+  "category": "Utilities & Tools"
 }

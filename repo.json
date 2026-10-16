@@ -1,0 +1,14 @@
+{
+  "name": "My Custom PS5 Repo",
+  "payloads": [
+    {
+      "id": "prospero_mgr",
+      "name": "Prospero Manager",
+      "author": "notmaj0r",
+      "version": "1.0.0",
+      "url": "https://github.com",
+      "description": "All-In-One homebrew and payload manager for your PS5",
+      "category": "utility"
+    }
+  ]
+}

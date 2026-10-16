@@ -1,6 +1,6 @@
 {
-  "name": "Just Prospero Manager",
-  "icons_url": "https://raw.githubusercontent.com/notmaj0r/ProsperoMgr/main/assets/icon.png",
+  "name": "My Custom PS5 Repo",
+  "icons_url": "https://github.com",
   "payloads": [
     {
       "name": "Prospero Manager",
@@ -11,8 +11,7 @@
       "description": "All-In-One homebrew and payload manager for your PS5 via web dashboard",
       "last_update": "2026-10-17",
       "version": "v1.1.0",
-      "category": "Utilities & Tools",
-      "icon_key": "8659496467090d2a8b6c7b1a6887702cc15d5b1be3ca05aee99f2b7c382244b0"
+      "category": "Utilities & Tools"
     }
   ]
 }
